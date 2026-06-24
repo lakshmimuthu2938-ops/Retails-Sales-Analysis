@@ -65,7 +65,7 @@ An interactive dashboard was created with the following features:
 
 ### Dashboard 1 - Retail Sales Analysis
 
-![Dashboard 1](Dashboard/Page1.png)
+![Dashboard 1](Dashboard/Page1.jpeg)
 
 ---
 
