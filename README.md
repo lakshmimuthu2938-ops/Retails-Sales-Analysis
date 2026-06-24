@@ -2,7 +2,7 @@
 
 ## 🔷 Project Overview
 
-This project focuses on analyzing retail sales data to uncover business insights and improve decision-making. The analysis was performed using ** Excel, SQL and Power BI**.
+This project focuses on analyzing retail sales data to uncover business insights and improve decision-making. The analysis was performed using **Excel, SQL and Power BI**.
 
 ---
 
@@ -11,7 +11,6 @@ This project focuses on analyzing retail sales data to uncover business insights
 * Microsoft Excel
 * SQL Server
 * Power BI
-
 
 ---
 
@@ -40,10 +39,11 @@ Before analysis, data cleaning was performed in Excel:
 
 Performed data analysis using SQL queries:
 
-* Total Sales and Profit calculation
+* Total record count
+* Total Sales calculation
+* Total Profit calculation
 * Category-wise sales analysis
-* Top-performing states
-* Order and customer analysis
+* Top 5 regions by sales
 
 ---
 
@@ -61,6 +61,14 @@ An interactive dashboard was created with the following features:
 
 ---
 
+## 📷 Dashboard Preview
+
+### Dashboard 1 - Retail Sales Analysis
+
+![Dashboard 1](Dashboard/Page1.png)
+
+---
+
 ## 🔍 Key Insights
 
 * Technology category generates the highest profit
@@ -71,19 +79,15 @@ An interactive dashboard was created with the following features:
 ---
 
 ## 📁 Project Structure
-
 ```
-Superstore-Sales-Analysis/
+├── Dashboard/
+        ├── Page1.png
+        
+├── Superstore_Cleaned.csv
 
-└── Superstore_Cleaned.csv
+├── Superstore.sql
 
-└── Superstore.sql
-
-└── project1.pbix
+├── project1.pbix
 
 └── README.md
-
 ```
-
-
----
